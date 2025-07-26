@@ -1,7 +1,7 @@
 # Project Plan: Bus Timetable Information System (BTIS) Design and Setup
 
 **Project Name:** Bus Timetable Information System (BTIS)
-**Prepared For:** [Client/Organization Name]
+**Prepared For:** [Kindhouse]
 **Date:** July 26, 2025
 **Version:** 1.0
 
@@ -17,6 +17,8 @@ This project plan outlines the phased approach to design, develop, and deploy a 
 
 **Specific Objectives:**
 * Provide real-time bus schedule information to passengers.
+* Have a ticking system that links to the seats in the bus
+* Manage Passenger disembarking and embarking
 * Reduce passenger waiting times and improve journey planning.
 * Integrate with existing/new GPS systems on buses.
 * Reduce inquiries to station staff.
